@@ -25,4 +25,5 @@ Rank.Percentile/Round
 IFS(for scoring and segmentation)
 
 Customers were scored on each metric, combined for an overall RFM score, and assigned to meaningful segments.
+## dashboard preview
 <img width="1451" height="1302" alt="Screenshot 2026-05-03 at 20 39 54" src="https://github.com/user-attachments/assets/1b0f2faa-c9c2-412c-8faf-62f1ffbeb714" />
